@@ -8,4 +8,4 @@ Hence, ensuring those decisions are realistic and data-driven will position you 
 
 I have done some projects that I believe will interest you, they cover areas I am particularly passionate about.
 
-      "*" Text Data Analysis Project (YouTube Case Study).
+**** Text Data Analysis Project (YouTube Case Study).
