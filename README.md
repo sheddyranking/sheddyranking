@@ -9,9 +9,13 @@ Hence, ensuring those decisions are realistic and data-driven will position you 
 I have done some projects that I believe will interest you, they cover areas I am particularly passionate about.
 
   > Text Data Analysis Project (YouTube Case Study).
+  
   > Time Series Analysis Project ( Stock Market Case-Study)
+  
   > Sale Data Analysis Project (E-commerce Case Study)
+  
   > Geopatial Analysis Project (Zomata Case Study).
+  
   > IPL Data Analysis Projecct (Sport Case Study)
 
 I hope you have a good time exploring and I'll be waiting to talk to you. Cheers!
