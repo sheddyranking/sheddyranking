@@ -14,6 +14,8 @@ I have done some projects that I believe will interest you, they cover areas I a
   
   > Sale Data Analysis Project (E-commerce Case Study)
   
+  > A Sales Report Analysis Project (With SQL & Power BI)
+  
   > Geopatial Analysis Project (Zomata Case Study).
   
   > IPL Data Analysis Projecct (Sport Case Study)
