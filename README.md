@@ -8,18 +8,23 @@ Hence, ensuring those decisions are realistic and data-driven will position you 
 
 I have done some projects that I believe will interest you, they cover areas I am particularly passionate about.
 
+### Python Data Analytics Projects
+
   > Text Data Analysis Project (YouTube Case Study).
 
-  > A Sales Report Analysis Project (With SQL & Power BI)
-  
-  > Time Series Analysis Project ( Stock Market Case-Study)
-  
-  > Olympic Games Analysis Project (With SQL and Power BI)
-  
-  > Sale Data Analysis Project (E-commerce Case Study)
-  
   > Geopatial Analysis Project (Zomata Case Study).
   
   > IPL Data Analysis Projecct (Sport Case Study)
+  
+  > Sale Data Analysis Project (E-commerce Case Study)
 
+  > Time Series Analysis Project ( Stock Market Case-Study)
+
+### SQL With Power BI and Tableau Analytics Projects
+
+  > A Sales Report Analysis Project (With SQL & Power BI)
+    
+  > Olympic Games Analysis Project (With SQL and Power BI)
+  
+  
 I hope you have a good time exploring and I'll be waiting to talk to you. Cheers!
