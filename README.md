@@ -26,5 +26,6 @@ I have done some projects that I believe will interest you, they cover areas I a
     
   > Olympic Games Analysis Project (With SQL and Power BI)
   
+  > DA Portfolio Projects (With SQL and Tableua and Python)
   
 I hope you have a good time exploring and I'll be waiting to talk to you. Cheers!
