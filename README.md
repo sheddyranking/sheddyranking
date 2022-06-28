@@ -20,6 +20,8 @@ I have done some projects that I believe will interest you, they cover areas I a
 
   > Time Series Analysis Project ( Stock Market Case-Study)
 
+  > Amazon Musical Instrument Review. (Sentiment Analysis)
+
 ### SQL With Power BI and Tableau Analytics Projects
 
   > A Sales Report Analysis Project (With SQL & Power BI)
