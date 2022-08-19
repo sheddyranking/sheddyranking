@@ -33,6 +33,8 @@ I have done some projects that I believe will interest you, they cover areas I a
 I hope you have a good time exploring and I'll be waiting to talk to you. Cheers!
 
  
-  Checkout my You-Tube Channel: https://bit.ly/38XEycp
-  Email me: shedyisaac@gmail.com
-  let's connect on Linkedin: https://www.linkedin.com/in/sheddyranking/
+  > Checkout my You-Tube Channel: https://bit.ly/38XEycp
+  
+  > Email me: shedyisaac@gmail.com
+  
+  > let's connect on Linkedin: https://www.linkedin.com/in/sheddyranking/
