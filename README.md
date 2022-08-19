@@ -29,5 +29,10 @@ I have done some projects that I believe will interest you, they cover areas I a
   > Olympic Games Analysis Project (With SQL & Power BI)
   
   > DA Portfolio Projects (SQL,Tableua & Python)
-  
+ 
 I hope you have a good time exploring and I'll be waiting to talk to you. Cheers!
+
+ 
+  Checkout my You-Tube Channel: https://bit.ly/38XEycp
+  Email me: shedyisaac@gmail.com
+  let's connect on Linkedin: https://www.linkedin.com/in/sheddyranking/
