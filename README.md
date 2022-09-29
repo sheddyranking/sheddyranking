@@ -8,7 +8,7 @@ Hence, ensuring those decisions are realistic and data-driven will position you 
 
 I have done some projects that I believe will interest you, they cover areas I am particularly passionate about.
 
-### machine Learning Modelling 
+### Machine Learning Modelling 
 > Bulldozer-sales-price prediction (Regression problem)
 https://github.com/sheddyranking/Bulldozer-sales-price-prediction
 
