@@ -8,6 +8,16 @@ Hence, ensuring those decisions are realistic and data-driven will position you 
 
 I have done some projects that I believe will interest you, they cover areas I am particularly passionate about.
 
+### machine Learning Modelling 
+> Bulldozer-sales-price prediction (Regression problem)(kaggle competition)
+https://github.com/sheddyranking/Bulldozer-sales-price-prediction
+
+> Heart Disease Prediction (Classification Problem)
+https://github.com/sheddyranking/Heart-Disease
+
+> Music Recommendation model (classification problem)
+https://github.com/sheddyranking/Music_Recommendation
+
 ### Python Data Analytics Projects
 
   > Text Data Analysis Project (YouTube Case Study).
