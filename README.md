@@ -38,7 +38,7 @@ https://github.com/sheddyranking/Music_Recommendation
     
   > Olympic Games Analysis Project (With SQL & Power BI)
   
-  > DA Portfolio Projects (SQL,Tableua & Python)
+  > DA Portfolio Projects (Excel SQL & Tableua)
  
 I hope you have a good time exploring and I'll be waiting to talk to you. Cheers!
 
