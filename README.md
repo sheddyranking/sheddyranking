@@ -32,7 +32,7 @@ https://github.com/sheddyranking/Music_Recommendation
 
   > Amazon Musical Instrument Review. (Sentiment Analysis)
 
-### SQL With Power BI and Tableau Analytics Projects
+### SQL With Power BI, Tableau & Excel Analytics Projects
 
   > A Sales Report Analysis Project (With SQL & Power BI)
     
