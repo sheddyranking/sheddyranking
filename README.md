@@ -50,7 +50,7 @@ https://github.com/sheddyranking/Music_Recommendation
 I hope you have a good time exploring and I'll be waiting to talk to you. Cheers!
 
  
-  > Checkout my You-Tube Channel: https://bit.ly/38XEycp
+  > Checkout my You-Tube Channel:https://www.youtube.com/@goshedy
   
   > Email me: shedyisaac@gmail.com
   
