@@ -10,9 +10,9 @@ I have a proven track record in cloud data migration, data modeling, and dashboa
 
 ### 💻 Professional Experience
 
-**AI Engineer – Turing**
+**AI Engineer**
 
-I currently work with Turing as an AI Engineer, supporting LLM evaluation and algorithmic reasoning projects. My work includes:
+I Previously worked with Turing as an AI Engineer, supporting LLM evaluation and algorithmic reasoning projects. My work includes:
 
 - Refining Codeforces-style problem statements.
 - Validating brute-force and optimal solutions.
