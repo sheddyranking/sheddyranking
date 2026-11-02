@@ -10,7 +10,7 @@ I have a proven track record in cloud data migration, data modeling, and dashboa
 
 ### 💻 Professional Experience
 
-**AI Engineer**
+> **AI Engineer**
 
 I Previously worked with Turing as an AI Engineer, supporting LLM evaluation and algorithmic reasoning projects. My work includes:
 
@@ -20,7 +20,7 @@ I Previously worked with Turing as an AI Engineer, supporting LLM evaluation and
 - Building robust test suites.
 - Ensuring technical rigor across AI-generated coding tasks.
 
-**Natural Language SQL Developer / Text-to-SQL Engineer**
+> **Natural Language SQL Developer / Text-to-SQL Engineer**
 
 I have experience designing end-to-end datasets for LLM training and evaluation, following the workflow:
 
@@ -28,7 +28,7 @@ I have experience designing end-to-end datasets for LLM training and evaluation,
 
 These projects support model training and evaluation across AI ecosystems, including OpenAI, Google Gemini, Anthropic, Meta, xAI, Character.AI, and Apple Intelligence.
 
-### 🚀 Data Engineering Experience
+> **Data Engineering Experience**
 
 I have hands-on experience building modern data pipelines, including:
 
@@ -52,7 +52,7 @@ I bring a unique blend of Business Intelligence, SQL engineering, data engineeri
 - Business Intelligence & Data Visualization
 - Power BI, Tableau, DAX & Reporting Automation
 
-### 🌱 Beyond Technology
+### Beyond Technology
 
 Outside of work, I enjoy fitness and teaching, reflecting the discipline and consistency I bring into my professional work.
 
@@ -60,7 +60,7 @@ Outside of work, I enjoy fitness and teaching, reflecting the discipline and con
 
 #OpenToWork #DataAnalytics #BusinessIntelligence #AI #Text2SQL #DataEngineering #PowerBI #Snowflake #Azure
 
-I have done some projects that I believe will interest you, they cover areas I am particularly passionate about.
+## I have done some projects that I believe will interest you, they cover areas I am particularly passionate about.
 
 ### Machine Learning Modelling 
 > Bulldozer-sales-price prediction (Regression problem)
